@@ -1,0 +1,12 @@
+.agent-info-container {
+    background-image: url('/images/FundoPreto.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
